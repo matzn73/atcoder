@@ -1,3 +1,4 @@
+# https://atcoder.jp/contests/abc117/tasks/abc117_b
 n = gets.chomp.to_i
 N = gets.chomp.split(' ').map(&:to_i).to_a
 max = N.max

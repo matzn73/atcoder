@@ -1,4 +1,4 @@
-'https://github.com/matzn73/atcoder/blob/master/A/plus-minus.rb'
+# https://github.com/matzn73/atcoder/blob/master/A/plus-minus.rb
 
 a, b = gets.chomp.split(' ').map(&:to_i)
 
